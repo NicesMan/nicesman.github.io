@@ -9,8 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+* Research Intern at [NUS-NExT++ Center](<https://www.nextcenter.org/>)
+  * May. 2020 - Present
+  * Explore knowledge-graph-based recommandation system
+
 * Intership at [DiDi Inc.](<https://www.didiglobal.com/>)
-  * Nov. 2019 - Present
+  * Nov. 2019 - Mar. 2020
   * Hangzhou, China
   * Explore reinforcement learning in recommendation system
 * [PAKDD 2019](<https://pakdd2019.medmeeting.org/en>)
