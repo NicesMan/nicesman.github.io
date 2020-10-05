@@ -13,5 +13,5 @@ permalink: /publications/
 
 ## Manuscripts In Preparation
 
-* RIAP: A method for Effective Receptive Field Rectification
-  * Jianhong Pan, **Tinglin Huang**, Xuan Yang
+* Interpretable Representation Learning on Knowledge Graph-aware Recommendation
+  * Xiang Wang$^*$, **Tinglin Huang**$^*$, An Zhang, Xiangnan He, Xu Tong, Tat-Seng Chua (co first-author)
