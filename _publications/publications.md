@@ -14,4 +14,5 @@ permalink: /publications/
 ## Manuscripts In Preparation
 
 * Interpretable Representation Learning on Knowledge Graph-aware Recommendation
-  * Xiang Wang$^*$, **Tinglin Huang**$^*$, An Zhang, Xiangnan He, Xu Tong, Tat-Seng Chua (co first-author)
+  * Xiang Wang\*, **Tinglin Huang**\*, An Zhang, Xiangnan He, Xu Tong, Tat-Seng Chua (co first-author)
+
