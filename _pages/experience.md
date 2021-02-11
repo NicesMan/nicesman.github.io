@@ -9,8 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+* Research Intern at [Tsinghua-KEG](http://keg.cs.tsinghua.edu.cn/)
+  * Dec. 2020 - Present
+  * Explore graph neural networks and pre-training task
+
 * Research Intern at [NUS-NExT++ Center](<https://www.nextcenter.org/>)
-  * May. 2020 - Present
+  * May. 2020 - Nov. 2020
   * Explore knowledge-graph-based recommandation system
 
 * Intership at [DiDi Inc.](<https://www.didiglobal.com/>)
