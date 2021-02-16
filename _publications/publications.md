@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Conference Proceedings
 
-* Learning Intents behind Interactions with Knowledge Graph for Recommendation. [[WWW2021](https://www2021.thewebconf.org/)]
+* Learning Intents behind Interactions with Knowledge Graph for Recommendation. [[WWW2021](https://www2021.thewebconf.org/)]\[[paper](https://arxiv.org/abs/2102.07057)\]\[[code](https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network)\]
   * Xiang Wang\*, **Tinglin Huang**\*, Dingxian Wang, Yancheng Yuan, Zhenguang Liu, Xiangnan He and Tat-Seng Chua (co first-author)
 * Neural Network-Based Deep Encoding for Mixed-Attribute Data Classification. [[PAKDD2019](<https://link.springer.com/chapter/10.1007%2F978-3-030-26142-9_14>)]
   * **Tinglin Huang**, Yulin He, De-Xin Dai, Wenting Wang, Joshua Zhexue Huang
