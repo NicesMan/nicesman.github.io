@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Conference Proceedings
 
-* MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems. [[KDD2021](https://kdd.org/kdd2021/)]\[[paper](/files/KDD2021_mixgcf.pdf)]
+* MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems. [[KDD2021](https://kdd.org/kdd2021/)]\[[paper](/files/KDD2021_mixgcf.pdf)][[code](https://github.com/huangtinglin/MixGCF)\]
   * **Tinglin Huang**, Yuxiao Dong, Ming Ding, Zhen Yang, Wenzheng Feng, Xinyu Wang, Jie Tang
 * Learning Intents behind Interactions with Knowledge Graph for Recommendation. [[WWW2021](https://www2021.thewebconf.org/) oral presentation, best paper shortlist]\[[paper](https://arxiv.org/abs/2102.07057)\]\[[code](https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network)\]
   * Xiang Wang\*, **Tinglin Huang**\*, Dingxian Wang, Yancheng Yuan, Zhenguang Liu, Xiangnan He and Tat-Seng Chua (co first-author)
