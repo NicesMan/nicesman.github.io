@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Tinglin Huang"
   avatar           : "avatar.jpg"
-  bio              : "A postgraduate student in Zhejiang University"
+  bio              : "A master student at Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "huangtinglin@outlook.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.zhihu.com/people/lin-lin-lin-zhu-75"
+  # uri              : "https://www.zhihu.com/people/lin-lin-lin-zhu-75"
   bitbucket        :
   codepen          :
   dribbble         :
