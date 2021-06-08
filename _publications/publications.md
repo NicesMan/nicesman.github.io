@@ -8,7 +8,7 @@ permalink: /publications/
 
 * MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems. [[KDD2021](https://kdd.org/kdd2021/)]\[[paper](/files/KDD2021_mixgcf.pdf)][[code](https://github.com/huangtinglin/MixGCF)\]
   * **Tinglin Huang**, Yuxiao Dong, Ming Ding, Zhen Yang, Wenzheng Feng, Xinyu Wang, Jie Tang
-* Learning Intents behind Interactions with Knowledge Graph for Recommendation. [[WWW2021](https://www2021.thewebconf.org/), oral presentation, best paper shortlist]\[[paper](https://arxiv.org/abs/2102.07057)\]\[[code](https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network)\]\[[slide](http://staff.ustc.edu.cn/~hexn/slides/www21-kgin-slides.pdf)]
+* Learning Intents behind Interactions with Knowledge Graph for Recommendation. [[WWW2021](https://www2021.thewebconf.org/), oral presentation, best paper shortlist]\[[paper](https://arxiv.org/abs/2102.07057)\]\[[code](https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network)\]\[[slides](http://staff.ustc.edu.cn/~hexn/slides/www21-kgin-slides.pdf)]
   * Xiang Wang\*, **Tinglin Huang**\*, Dingxian Wang, Yancheng Yuan, Zhenguang Liu, Xiangnan He and Tat-Seng Chua (co first-author)
 * Neural Network-Based Deep Encoding for Mixed-Attribute Data Classification. [[PAKDD2019](<https://link.springer.com/chapter/10.1007%2F978-3-030-26142-9_14>)]
   * **Tinglin Huang**, Yulin He, De-Xin Dai, Wenting Wang, Joshua Zhexue Huang
